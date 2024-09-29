@@ -18,8 +18,9 @@ The Development Indicator Dashboard is a visual representation of key socio-econ
 - Power BI: The dashboard was created using Microsoft Power BI for visualizing and analyzing large datasets.
 - Data Source: CSV/Excel files from World Bank’s public data repository.
 
+Thank you for your support, and I look forward to connecting with you!
 - **Instagram**: https://www.instagram.com/_ash_raza/
 - **LinkedIn**: https://www.linkedin.com/in/ashna-aqeel-raza-ab920a247/
 
 
-Thank you for your support, and I look forward to connecting with you!
+
